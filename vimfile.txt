@@ -1,0 +1,1 @@
+hello it is a file of vi editor and we are currently in the git and github workshop held at IT department JECRC
